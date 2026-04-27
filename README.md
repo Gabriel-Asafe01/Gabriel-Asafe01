@@ -50,9 +50,9 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielasafesm@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/gabrielasafe_/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabriel-asafe-132ab0345/)
+  [![Gmail](https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielasafesm@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-1E3A8A?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/gabrielasafe_/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabriel-asafe-132ab0345/)
   
 </div>
 
